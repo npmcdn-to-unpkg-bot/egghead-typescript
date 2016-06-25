@@ -1,0 +1,21 @@
+{
+  "name": "egghead-typescript",
+  "version": "1.0.0",
+  "description": "Learning TS in egghead.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldore/egghead-typescript.git"
+  },
+  "author": "baldore <acornssn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baldore/egghead-typescript/issues"
+  },
+  "homepage": "https://github.com/baldore/egghead-typescript#readme"
+}
