@@ -6,7 +6,7 @@
         "sourceMap": false,
         "outDir": "./dist"
     },
-    "files": [
-        "src/main.ts"
+    "exclude": [
+        "node_modules"
     ]
 }
